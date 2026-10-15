@@ -1,0 +1,108 @@
+Simple RNN | seed 1 | temperature 0.5
+, he began. you're a very poor speaker, said the king. here one, said the mock turtle. i shall not, said the gryphon, and the queen to say a little! said the mock turtle, and she had not to the pigeon, but it was no time
+
+Simple RNN | seed 1 | temperature 1.0
+, he began. you're a very poor speaker, said the king. here one day, i wonder! flamingoes like listening by, as she called. so been looked very these of dull, for never sometimes tell a much she was mustard find to ask, but i was succeeded won't
+
+Simple RNN | seed 1 | temperature 1.5
+, he began. you're a very poor speaker, said the king. here one; hastily. here box for to be creatures than. i could earls, half yet days at sure happen shall turning, i've never those certainly question all fun as i'm green poor hatter underneath or far old
+
+Simple RNN | seed 2 | temperature 0.5
+to write this down on their slates, when the white rabbit interrupted: un important the same of the hatter. what a very difficult! said the same, and she had been about it. but she had not a little! alice, it was looking herself to get. oh,
+
+Simple RNN | seed 2 | temperature 1.0
+to write this down on their slates, when the white rabbit interrupted: un important it. they was take very few gloves it up if that you're you help either this! why alice, change, but i don't temper, said the cat, i find it is place of the right
+
+Simple RNN | seed 2 | temperature 1.5
+to write this down on their slates, when the white rabbit interrupted: un important after you tempered! don't loudly succeeded hush thinking fell till she talking on to turtle saw of moment's asked, round soon was walked her hole me at once. is seen shutting! fire as sight your young
+
+Simple RNN | seed 3 | temperature 0.5
+cardboard. all right, so far, said the king, and he went on the cat, she went on a little thing, and the queen, said alice, and then to the queen, said the pool, and the queen, said the caterpillar, and the duchess, said
+
+Simple RNN | seed 3 | temperature 1.0
+cardboard. all right, so far, said the king, and he went on, people, however alice indignantly dinah, said the hatter forgetting, said the! cried the what sort live all. how again: i try now i don't be turned beginning last her doesn't second down and
+
+Simple RNN | seed 3 | temperature 1.5
+cardboard. all right, so far, said the king, and he went on. quite a frog chimney; or got before day her. i'm an nothing sky up with? other herself met garden stood speak room any busily mushroom as alone? another other throw pray butter no little fur
+
+Bidirectional RNN | seed 1 | temperature 0.5
+, he began. you're a very poor speaker, said the king. here one, said the mock turtle. i shall not used. i wonder i shall be no to say the house. i don't think i think i think? said the duchess, and the queen was a long
+
+Bidirectional RNN | seed 1 | temperature 1.0
+, he began. you're a very poor speaker, said the king. here one day, i wonder! flamingoes like a one, continued the called. well, perhaps to these none dull his for, perhaps, with this she was mustard find. the white off things for in sight
+
+Bidirectional RNN | seed 1 | temperature 1.5
+, he began. you're a very poor speaker, said the king. here one; advance. the box for to be creatures than. i may earls, trying yet days no sure happen voice turning, i've trying so certainly was all fun as i'm green poor hatter underneath they'd far wandered
+
+Bidirectional RNN | seed 2 | temperature 0.5
+to write this down on their slates, when the white rabbit interrupted: un important the same of a little glass, and the players of the queen. alice replied very politely, and began, and went on it a little thing is, if you can't be a conversation. the queen
+
+Bidirectional RNN | seed 2 | temperature 1.0
+to write this down on their slates, when the white rabbit interrupted: un important, i didn't! take very few caterpillar opportunity up if that, you ventured to talk! why alice, change, but i dear, so become said, you're was: it had place of the right
+
+Bidirectional RNN | seed 2 | temperature 1.5
+to write this down on their slates, when the white rabbit interrupted: un important after you tempered! don't loudly i put thinking, till course talking at to turtle. put garden asked, round soon was than ten hole cut at once. is do shutting! fire saying sight and if
+
+Bidirectional RNN | seed 3 | temperature 0.5
+cardboard. all right, so far, said the king, and he went on, and, she went on the queen. but then all the queen: but the second said to see, as the queen, but she found she had not to the hatter, and she said to
+
+Bidirectional RNN | seed 3 | temperature 1.0
+cardboard. all right, so far, said the king, and he went on, people, however alice indignantly dinah, sleepy, this forgetting mushroom, just! cried the same thing said with. how the best sort forgotten now couldn't. you turned beginning last her inches second down would
+
+Bidirectional RNN | seed 3 | temperature 1.5
+cardboard. all right, so far, said the king, and he went on. quite a frog chimney trouble was some before day her. i'm an nothing sky up we? that trying met garden you're speak room any busily mushroom silent alone? another other throw pray what no pointing!
+
+LSTM | seed 1 | temperature 0.5
+, he began. you're a very poor speaker, said the king. here one, said the mock turtle. i shall i must be a little caterpillar, and she went on the house again. i think to the queen. and she went on the little thing, said the dormouse
+
+LSTM | seed 1 | temperature 1.0
+, he began. you're a very poor speaker, said the king. here one day, i wonder! flamingoes like here by, but saying called. so been such very these none dull his for never: find a great she to be find. the white executions things; i won't
+
+LSTM | seed 1 | temperature 1.5
+, he began. you're a very poor speaker, said the king. here one; hastily. here box for to be creatures than. i could earls, half yet days at sure happen voice turning thought the way: certainly was all fun never asked green poor hatter underneath they'd far wandered
+
+LSTM | seed 2 | temperature 0.5
+to write this down on their slates, when the white rabbit interrupted: un important the duchess; and the mouse, and she, and the mouse. she had very little hare. alice, said the mouse, but she said alice, it was looking to be a. oh,
+
+LSTM | seed 2 | temperature 1.0
+to write this down on their slates, when the white rabbit interrupted: un important it. they was anything itself creatures, but she if that you're it way about that! why like another change, but i don't temper, said the queen, i find it had place of the right
+
+LSTM | seed 2 | temperature 1.5
+to write this down on their slates, when the white rabbit interrupted: un important after you tempered! the loudly of hush half fell till she talking on to turtle saw put garden asked feet round my m than however hole, at on. is do shutting! fire as sight your young
+
+LSTM | seed 3 | temperature 0.5
+cardboard. all right, so far, said the king, and he went on the cat, she went on the queen, and then, and she could not not! said to the mock turtle, and if the caterpillar. she could not, said the duchess, and she had
+
+LSTM | seed 3 | temperature 1.0
+cardboard. all right, so far, said the king, and he went on, people, however alice indignantly dinah, said, this forgetting it, wow! cried the what sort it had offended quite golden: its silence now couldn't, you dear beginning last her doesn't second down would
+
+LSTM | seed 3 | temperature 1.5
+cardboard. all right, so far, said the king, and he went on the quite a lory chimney trouble was got before day her. i'm an nothing sky up with? that herself met garden stood eyes room any busily plan doesn't alone? another other throw about butter no little fur
+
+GRU | seed 1 | temperature 0.5
+, he began. you're a very poor speaker, said the king. here one, said the mock turtle. i shall i must be any, said the cat. i shall you know what i don't think i wonder it is? said the duchess, and the queen was no use
+
+GRU | seed 1 | temperature 1.0
+, he began. you're a very poor speaker, said the king. here one day, i wonder! flamingoes like here by, i didn't called you could think you to these its dull his for never: she came this she was mustard find to ask when off things was in sight
+
+GRU | seed 1 | temperature 1.5
+, he began. you're a very poor speaker, said the king. here one yer hastily. here box for to be creatures than. i honour earls, half yet days day sure happen voice turning, i've trying not talk people all fun as i'm green poor hatter underneath they'd far wandered
+
+GRU | seed 2 | temperature 0.5
+to write this down on their slates, when the white rabbit interrupted: un important the table; and the mouse went on, and the mock turtle. the cat, said the mock turtle. i shall dinah, said the mock turtle, it was looking at the other. oh,
+
+GRU | seed 2 | temperature 1.0
+to write this down on their slates, when the white rabbit interrupted: un important it. why, take very few caterpillar opportunity up if i wonder it here. alice! why alice, change, but i don't temper, said the cat, i find it is its well five,
+
+GRU | seed 2 | temperature 1.5
+to write this down on their slates, when the white rabbit interrupted: un important after you tempered! the loudly succeeded hush half fell till she talking on to turtle saw put garden asked feet round my m than however hole me at once. is spread shutting! fire as sight your young
+
+GRU | seed 3 | temperature 0.5
+cardboard. all right, so far, said the king, and he went on, and, she went on, and she had been to find the same thing, and then to see, as the queen was the whole thing she had not quite a minute or two, and she
+
+GRU | seed 3 | temperature 1.0
+cardboard. all right, so far, said the king, and he went on, she did not dry all dinah, of course this forgetting it, wow! cried the dormouse sort it had offended quite golden: the mock turtle couldn't feeble you turned beginning last her doesn't second down into
+
+GRU | seed 3 | temperature 1.5
+cardboard. all right, so far, said the king, and he went on. quite a frog chimney trouble was some before day her. i'm an nothing sky up with? that herself met garden you're speak room any busily mushroom as alone the another other throw cheshire butter no little fur
+

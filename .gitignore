@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+venv/
+data/alice.txt
+IA2_ICT4403_FGAI_261012_145414.pdf
