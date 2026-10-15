@@ -58,3 +58,4 @@ The same text seeds were used for each model and temperature. Individual samples
 - Review the measured results and conclusion above, then upload this notebook, README, requirements, results, and any other required supporting files to a clearly named GitHub repository. Give the evaluator access if private.
 - Create `YourName_RegNum_FGAI_Assignment2.docx` with your name, registration number, assignment title, project title, dataset name and link, and GitHub repository link.
 - Export that Word document as a PDF and upload the PDF to the LMS before the deadline.
+# Gen_AI_Assignment
